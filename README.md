@@ -64,3 +64,6 @@ If you’re also learning or preparing for interviews, let’s connect and grow 
 - LinkedIn: https://www.linkedin.com/in/abinaby
 - LeetCode: https://leetcode.com/u/abinr6/
 - GitHub: https://github.com/AbinR6
+
+# Final Notes
+“Consistency is greater than intensity — one problem a day keeps stagnation away.”
